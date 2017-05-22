@@ -4,8 +4,8 @@ function love .conf(t)
 
   w .title  = 'Löve imgDataTest'
 
-  w .width  = 640
-  w .height = 480
+  w .width  = 800
+  w .height = 500
 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   t .version  = "0.10.2"               -- The LÖVE version this game was made for (string)
   t .identity  = 'imgDataTest'         -- The name of the save directory (string)
